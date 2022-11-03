@@ -1,0 +1,43 @@
+@import 'shared/font.css';
+@import 'shared/loginRegister.css';
+@import 'shared/game.css';
+@import 'shared/userPositions.css';
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Cardinal';
+    font-size: 16px;
+    border-radius: 0;
+    -webkit-appearance: none;
+    background-color: transparent;
+    color: transparent;
+    caret-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.2rem;
+}

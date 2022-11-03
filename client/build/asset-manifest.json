@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a412180.css",
+    "main.js": "/static/js/main.09826338.js",
+    "static/media/map2.jpg": "/static/media/map2.6e21cb6ee43dfc9b2322.jpg",
+    "static/media/parchmentBigger.jpg": "/static/media/parchmentBigger.ac0c4da188ca4681b285.jpg",
+    "static/media/woodBigger.jpg": "/static/media/woodBigger.db439d4ee52fe4d78c7f.jpg",
+    "static/media/map.jpg": "/static/media/map.ea10b74776ad436d9dfd.jpg",
+    "static/media/landscape0.jpg": "/static/media/landscape0.746c3e70cc4dd1988d09.jpg",
+    "static/media/settingCog.png": "/static/media/settingCog.f5f413837ea411ab52f5.png",
+    "static/media/wood0.jpg": "/static/media/wood0.097b49a85df1231c21e4.jpg",
+    "static/media/banner0.png": "/static/media/banner0.e22df4281e9ebc788302.png",
+    "static/media/bread.png": "/static/media/bread.bf6ad6f6e01da1e285d2.png",
+    "static/media/houseLvl1.png": "/static/media/houseLvl1.7a062cefc6c3bf429e3a.png",
+    "static/media/earth.png": "/static/media/earth.8d80475a086e4904f31c.png",
+    "static/media/logs.png": "/static/media/logs.158e81c8c32c2e20fdc2.png",
+    "static/media/granite.png": "/static/media/granite.a87e8d9efa62ee6eef4d.png",
+    "static/media/warrior.png": "/static/media/warrior.71d7840e55350b1e1a1e.png",
+    "static/media/mail.png": "/static/media/mail.35e887481c58264080c0.png",
+    "static/media/parchment.jpg": "/static/media/parchment.be86207ef3f122d4dc46.jpg",
+    "static/media/farmLvl1.png": "/static/media/farmLvl1.e3a6edb9c4dbf804a811.png",
+    "static/media/commanderLvl1.png": "/static/media/commanderLvl1.cff7a7b567d473d0a334.png",
+    "static/media/mineLvl1.png": "/static/media/mineLvl1.1edfabb20e20b38648e9.png",
+    "static/media/farmer.png": "/static/media/farmer.81bc8a528d3b08cad6dc.png",
+    "static/media/lumberjackLvl1.png": "/static/media/lumberjackLvl1.01c0f40eb954eb9fa0df.png",
+    "static/media/hammer.png": "/static/media/hammer.15b6828dac3a65b0c9fe.png",
+    "static/media/defenceshopLvl1.png": "/static/media/defenceshopLvl1.2b1c38ffbf18ed97889b.png",
+    "static/media/towerLvl1.png": "/static/media/towerLvl1.9f5aa76c79608d712b9c.png",
+    "index.html": "/index.html",
+    "main.6a412180.css.map": "/static/css/main.6a412180.css.map",
+    "main.09826338.js.map": "/static/js/main.09826338.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a412180.css",
+    "static/js/main.09826338.js"
+  ]
+}
